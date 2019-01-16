@@ -90,6 +90,11 @@ class InvocarParametrosGenerales {
       Parametro pg3=  Parametro.ObtenerParametrizacion();
       //Obtiene el valor del campo razon social de la instancia y HashCode de la instancia
       System.out.println("3  : Instancia " + pg3.hashCode()+ "-" + pg3.obtenerRazonSocial()); 
+      
+      
+            Parametro pg4=  Parametro.ObtenerParametrizacion();
+      //Obtiene el valor del campo razon social de la instancia y HashCode de la instancia
+      System.out.println("4  : Instancia " + pg4.hashCode()+ "-" + pg4.obtenerRazonSocial()); 
     }
     
 }

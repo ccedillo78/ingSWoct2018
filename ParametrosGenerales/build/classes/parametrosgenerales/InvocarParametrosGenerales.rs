@@ -1,0 +1,2 @@
+parametrosgenerales.Parametro
+parametrosgenerales.InvocarParametrosGenerales
